@@ -10,10 +10,10 @@
 <a href="https://linkedin.com/in/hansensenejoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hansensenejoa" height="30" width="40" /></a>
 </p>
 
-[https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg](https://github.com/HansenSenejoa/hansensenejoa.github.io/blob/a75d0ef31915a1e0100916e2e0ceab246a439836/assets/0d7cf7a289b945e52ded.png)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<a href="[https://www.w3schools.com/cpp/](https://github.com/HansenSenejoa/hansensenejoa.github.io/tree/main/assets)" target="_blank" rel="noreferrer"> <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg](https://github.com/HansenSenejoa/hansensenejoa.github.io/blob/a75d0ef31915a1e0100916e2e0ceab246a439836/assets/0d7cf7a289b945e52ded.png)" alt="Dynamo" width="40" height="40"/> </a>
+<a href="https://github.com/HansenSenejoa/hansensenejoa.github.io/tree/main/assets" target="_blank" rel="noreferrer"> <img src="https://github.com/HansenSenejoa/hansensenejoa.github.io/blob/a75d0ef31915a1e0100916e2e0ceab246a439836/assets/0d7cf7a289b945e52ded.png" alt="Dynamo" width="40" height="40"/> </a>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
