@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/hansensenejoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hansensenejoa" height="30" width="40" /></a>
 </p>
 
-
+[https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg](https://github.com/HansenSenejoa/hansensenejoa.github.io/blob/a75d0ef31915a1e0100916e2e0ceab246a439836/assets/0d7cf7a289b945e52ded.png)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
